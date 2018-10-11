@@ -1,0 +1,1 @@
+Configuration based on https://github.com/stefanprodan/swarmprom/tree/master/grafana
